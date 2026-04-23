@@ -1,0 +1,25 @@
+{
+  "name": "Xinn AI",
+  "short_name": "Xinn AI",
+  "description": "Xinn AI - AI assistant modern, clean, dan siap dipakai seperti app.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020206",
+  "theme_color": "#8a55f7",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
